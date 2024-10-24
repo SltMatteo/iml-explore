@@ -6,5 +6,8 @@ It contains the following models:
 - knn  
 - cnn  
 - mlp
+- vision transformer
 
-We used the [Stanford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/) and [Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist) datasets.
+
+We used the [Stanford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/) and [Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist) dataset.
+The models average 80 to 90% precision. 
